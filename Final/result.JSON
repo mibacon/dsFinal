@@ -1,0 +1,3264 @@
+[
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.77915580000001,
+                "lng": -73.9563082
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.77915580000001,
+                        "lng": -73.9563082
+                    },
+                    "meetingName": "NEW CHOICES - New Choices",
+                    "meetingAddress": "125 E 85th St, New York, NY 10028, USA",
+                    "addressDetails": "Ramaz School Entrance"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.849394,
+                "lng": -73.93841119999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.849394,
+                        "lng": -73.93841119999999
+                    },
+                    "meetingName": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+                    "meetingAddress": "715 W 179th St, New York, NY 10033, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 AM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7795884,
+                "lng": -73.98226950000002
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7795884,
+                        "lng": -73.98226950000002
+                    },
+                    "meetingName": "LAMBDA WEST - Lambda West",
+                    "meetingAddress": "236 W 73rd St, New York, NY 10023, USA",
+                    "addressDetails": "5th Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:15 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7298724,
+                "lng": -73.9827759
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7298724,
+                        "lng": -73.9827759
+                    },
+                    "meetingName": "THE 12th STREET WORKSHOP -",
+                    "meetingAddress": "411 E 12th St, New York, NY 10009, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:00 PM",
+                        "MeetingType": "Open meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:30 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7319869,
+                "lng": -73.99093069999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7319869,
+                        "lng": -73.99093069999999
+                    },
+                    "meetingName": "GRACE ON BROADWAY - Grace On Broadway",
+                    "meetingAddress": "802 Broadway, New York, NY 10003, USA",
+                    "addressDetails": "3rd Floor Conference Room"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:15 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7633341,
+                "lng": -73.9948934
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7633341,
+                        "lng": -73.9948934
+                    },
+                    "meetingName": "GRUPO BUENA VOLUNTAD - Grupo Buena Voluntad",
+                    "meetingAddress": "538 W 47th St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Spanish speaking group"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7479205,
+                "lng": -73.9817652
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7479205,
+                        "lng": -73.9817652
+                    },
+                    "meetingName": "BREAKFAST CLUB - Breakfast Club",
+                    "meetingAddress": "30 E 35th St, New York, NY 10016, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Open meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7237496,
+                "lng": -73.992395
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7237496,
+                        "lng": -73.992395
+                    },
+                    "meetingName": "EXPERIENCE STRENGTH AND HOPE - Experience Strength And Hope",
+                    "meetingAddress": "273 Bowery, New York, NY 10002, USA",
+                    "addressDetails": "2nd Floor Classroom"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7123651,
+                "lng": -74.009564
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7123651,
+                        "lng": -74.009564
+                    },
+                    "meetingName": "TRIBECA GROUP @ ST. PETER'S CHURCH - Tribeca",
+                    "meetingAddress": "22 Barclay St, New York, NY 10007, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8666437,
+                "lng": -73.9268712
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8666437,
+                        "lng": -73.9268712
+                    },
+                    "meetingName": "HAPPY DESTINY -",
+                    "meetingAddress": "20 Cumming St, New York, NY 10034, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7886377,
+                "lng": -73.97993699999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7886377,
+                        "lng": -73.97993699999999
+                    },
+                    "meetingName": "RUDE AWAKENING - Rude Awakening",
+                    "meetingAddress": "340 W 85th St, New York, NY 10024, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7698331,
+                "lng": -73.9850824
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7698331,
+                        "lng": -73.9850824
+                    },
+                    "meetingName": "LUCKY ONES -",
+                    "meetingAddress": "405 W 59th St, New York, NY 10023, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7466478,
+                "lng": -73.9933561
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7466478,
+                        "lng": -73.9933561
+                    },
+                    "meetingName": "ABINGDON SQUARE IN CHELSEA - Abingdon Square In Chelsea",
+                    "meetingAddress": "305 7th Ave, New York, NY 10001, USA",
+                    "addressDetails": "6th Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7370361,
+                "lng": -73.98538719999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7370361,
+                        "lng": -73.98538719999999
+                    },
+                    "meetingName": "EAST MEETS WEST IN SOBRIETY - East Meets West In Sobriety",
+                    "meetingAddress": "28 Gramercy Park S, New York, NY 10003, USA",
+                    "addressDetails": "1st Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.76208099999999,
+                "lng": -73.9752496
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.76208099999999,
+                        "lng": -73.9752496
+                    },
+                    "meetingName": "FOGLIFTERS-FIFTH AVENUE - Foglifters-Fifth Avenue",
+                    "meetingAddress": "7 W 55th St, New York, NY 10019, USA",
+                    "addressDetails": "5th Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7360929,
+                "lng": -74.0027594
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7360929,
+                        "lng": -74.0027594
+                    },
+                    "meetingName": "WEDNESDAY FOCUS - Wednesday Focus",
+                    "meetingAddress": "232 W 11th St, New York, NY 10014, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7343774,
+                "lng": -73.98496999999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7343774,
+                        "lng": -73.98496999999999
+                    },
+                    "meetingName": "POTPOURRI - Potpourri",
+                    "meetingAddress": "209 E 16th St, New York, NY 10003, USA",
+                    "addressDetails": "Olmstead Hall"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7343774,
+                        "lng": -73.98496999999999
+                    },
+                    "meetingName": "GRATEFUL GROUP OF A.A. -",
+                    "meetingAddress": "209 E 16th St, New York, NY 10003, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7613138,
+                "lng": -73.98903899999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7613138,
+                        "lng": -73.98903899999999
+                    },
+                    "meetingName": "BETWEEN SHOWS - Between Shows",
+                    "meetingAddress": "339 W 47th St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8020319,
+                "lng": -73.9659862
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8020319,
+                        "lng": -73.9659862
+                    },
+                    "meetingName": "GRUPO DULCES 24 - Grupo Dulces 24",
+                    "meetingAddress": "218 W 108th St, New York, NY 10025, USA",
+                    "addressDetails": "Main Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.77711,
+                "lng": -73.981217
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.77711,
+                        "lng": -73.981217
+                    },
+                    "meetingName": "WOMEN'S BEGINNING LITERATURE -",
+                    "meetingAddress": "152 W 71st St, New York, NY 10023, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.748929,
+                "lng": -73.99301919999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.748929,
+                        "lng": -73.99301919999999
+                    },
+                    "meetingName": "COMMUTERS SPECIAL - Commuters Special",
+                    "meetingAddress": "211 W 30th St, New York, NY 10001, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7341126,
+                "lng": -73.9957561
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7341126,
+                        "lng": -73.9957561
+                    },
+                    "meetingName": "SOBRIETY ON THE SQUARE - Sobriety On The Square",
+                    "meetingAddress": "12 W 11th St, New York, NY 10011, USA",
+                    "addressDetails": "Ground Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.727506,
+                "lng": -73.98583909999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.727506,
+                        "lng": -73.98583909999999
+                    },
+                    "meetingName": "LIVING NOW - Living Now     (:II)",
+                    "meetingAddress": "80 St Marks Pl, New York, NY 10003, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7542709,
+                "lng": -73.9812596
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7542709,
+                        "lng": -73.9812596
+                    },
+                    "meetingName": "RENAISSANCE - Renaissance",
+                    "meetingAddress": "4 W 43rd St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7897647,
+                "lng": -73.9724231
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7897647,
+                        "lng": -73.9724231
+                    },
+                    "meetingName": "AMSTERDAM - Amsterdam",
+                    "meetingAddress": "144 W 90th St, New York, NY 10024, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:00 PM",
+                        "MeetingType": "Open meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7384377,
+                "lng": -73.98400269999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7384377,
+                        "lng": -73.98400269999999
+                    },
+                    "meetingName": "ATLANTIC BY THE BOOK - Atlantic By The Book",
+                    "meetingAddress": "155 E 22nd St, New York, NY 10010, USA",
+                    "addressDetails": "Ground Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7384377,
+                        "lng": -73.98400269999999
+                    },
+                    "meetingName": "22 BELOW - Twenty-Two Below",
+                    "meetingAddress": "155 E 22nd St, New York, NY 10010, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7273049,
+                "lng": -74.0013706
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7273049,
+                        "lng": -74.0013706
+                    },
+                    "meetingName": "ROOM FOR IMPROVEMENT     (:I) - Room For Improvement",
+                    "meetingAddress": "154 Sullivan St, New York, NY 10012, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7483346,
+                "lng": -73.97882589999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7483346,
+                        "lng": -73.97882589999999
+                    },
+                    "meetingName": "MUSTARD SEED - Mustard Seed     (:I)",
+                    "meetingAddress": "122 E 37th St, New York, NY 10016, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "11:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:45 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "3:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Big Book meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7483346,
+                        "lng": -73.97882589999999
+                    },
+                    "meetingName": "LUNCHTIME EXPRESS AT THE MUSTARD SEED -",
+                    "meetingAddress": "122 E 37th St, New York, NY 10016, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Open meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7483346,
+                        "lng": -73.97882589999999
+                    },
+                    "meetingName": "GRUPO BRASIL -",
+                    "meetingAddress": "122 E 37th St, New York, NY 10016, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7483346,
+                        "lng": -73.97882589999999
+                    },
+                    "meetingName": "COURAGE TO CHANGE - Courage To Change",
+                    "meetingAddress": "122 E 37th St, New York, NY 10016, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Big Book meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7843024,
+                "lng": -73.9560321
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7843024,
+                        "lng": -73.9560321
+                    },
+                    "meetingName": "MEN'S NYC BIG BOOK STEP STUDY -",
+                    "meetingAddress": "1285 Madison Ave, New York, NY 10128, USA",
+                    "addressDetails": "10128"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7576231,
+                "lng": -73.9657988
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576231,
+                        "lng": -73.9657988
+                    },
+                    "meetingName": "TEMPLETON - Templeton",
+                    "meetingAddress": "308 E 55th St, New York, NY 10022, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7287153,
+                "lng": -74.004578
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7287153,
+                        "lng": -74.004578
+                    },
+                    "meetingName": "MIDNITE -",
+                    "meetingAddress": "220 W Houston St, New York, NY 10014, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "12:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "2:00 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.75811179999999,
+                "lng": -73.9834391
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.75811179999999,
+                        "lng": -73.9834391
+                    },
+                    "meetingName": "NEW BUT WEST - New But West",
+                    "meetingAddress": "133 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "2nd   3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.75811179999999,
+                        "lng": -73.9834391
+                    },
+                    "meetingName": "MORNING CALL -",
+                    "meetingAddress": "133 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "6:00 AM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.75811179999999,
+                        "lng": -73.9834391
+                    },
+                    "meetingName": "AMAZING GRACE - Amazing Grace",
+                    "meetingAddress": "133 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7681523,
+                "lng": -73.986936
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7681523,
+                        "lng": -73.986936
+                    },
+                    "meetingName": "STEPS AND TRADITIONS ON WEDNESDAY - Eightieth Street",
+                    "meetingAddress": "422 W 57th St, New York, NY 10019, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7681523,
+                        "lng": -73.986936
+                    },
+                    "meetingName": "FIRESIDE  (:I)  WEEKDAY MEETINGS ONLY - Fireside",
+                    "meetingAddress": "422 W 57th St, New York, NY 10019, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7355145,
+                "lng": -74.0031001
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7355145,
+                        "lng": -74.0031001
+                    },
+                    "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop     (:I)",
+                    "meetingAddress": "50 Perry St, New York, NY 10014, USA",
+                    "addressDetails": "Ground Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:15 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7440891,
+                "lng": -74.0019889
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7440891,
+                        "lng": -74.0019889
+                    },
+                    "meetingName": "CHELSEA MORNINGS -",
+                    "meetingAddress": "346 W 20th St, New York, NY 10011, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:00 AM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7769469,
+                "lng": -73.9480191
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7769469,
+                        "lng": -73.9480191
+                    },
+                    "meetingName": "RECOVERY ROOM - Recovery Room",
+                    "meetingAddress": "420 E 87th St, New York, NY 10128, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7081354,
+                "lng": -74.00394519999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7081354,
+                        "lng": -74.00394519999999
+                    },
+                    "meetingName": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+                    "meetingAddress": "49 Fulton St, New York, NY 10038, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "6:30 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7081354,
+                        "lng": -74.00394519999999
+                    },
+                    "meetingName": "SEAPORT - Seaport",
+                    "meetingAddress": "49 Fulton St, New York, NY 10038, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7926781,
+                "lng": -73.9406285
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7926781,
+                        "lng": -73.9406285
+                    },
+                    "meetingName": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+                    "meetingAddress": "2126 2nd Ave, New York, NY 10029, USA",
+                    "addressDetails": "1st Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7863738,
+                "lng": -73.95142310000001
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7863738,
+                        "lng": -73.95142310000001
+                    },
+                    "meetingName": "INTO ACTION MANHATTAN - Into Action Manhattan",
+                    "meetingAddress": "135 E 96th St, New York, NY 10128, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7419966,
+                "lng": -73.986121
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7419966,
+                        "lng": -73.986121
+                    },
+                    "meetingName": "MADISON PARK BEGINNERS - Madison Park Beginners",
+                    "meetingAddress": "51 E 25th St, New York, NY 10010, USA",
+                    "addressDetails": "Lower Level"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 AM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7991395,
+                "lng": -73.9711355
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7991395,
+                        "lng": -73.9711355
+                    },
+                    "meetingName": "WESTSIDE 11th STEP MEDITATION WORKSHOP - Westside 11th Step Meditation Workshop",
+                    "meetingAddress": "306 W 102nd St, New York, NY 10025, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7991395,
+                        "lng": -73.9711355
+                    },
+                    "meetingName": "WOMEN LIVING SOBER - Women Living Sober",
+                    "meetingAddress": "306 W 102nd St, New York, NY 10025, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.805083,
+                "lng": -73.960405
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.805083,
+                        "lng": -73.960405
+                    },
+                    "meetingName": "MORNINGSIDE HEIGHTS BEGINNERS -",
+                    "meetingAddress": "405 W 114th St, New York, NY 10025, USA",
+                    "addressDetails": "Merton Room"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7593263,
+                "lng": -73.98727389999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7593263,
+                        "lng": -73.98727389999999
+                    },
+                    "meetingName": "4 THE GRACE -",
+                    "meetingAddress": "252 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7593263,
+                        "lng": -73.98727389999999
+                    },
+                    "meetingName": "RAINBOW ROOM - Rainbow Room",
+                    "meetingAddress": "252 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:45 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7593263,
+                        "lng": -73.98727389999999
+                    },
+                    "meetingName": "FORTY-FIVE SOLUTIONS - Forty-Five Solutions",
+                    "meetingAddress": "252 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7593263,
+                        "lng": -73.98727389999999
+                    },
+                    "meetingName": "BEGINNERS -",
+                    "meetingAddress": "252 W 46th St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:45 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7332774,
+                "lng": -73.99463109999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7332774,
+                        "lng": -73.99463109999999
+                    },
+                    "meetingName": "12 CONCEPTS WORKSHOP -",
+                    "meetingAddress": "7 E 10th St, New York, NY 10003, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7332774,
+                        "lng": -73.99463109999999
+                    },
+                    "meetingName": "N.Y.U. (NOW YOU UNDERSTAND) - N.Y.U. (Now You Understand)",
+                    "meetingAddress": "7 E 10th St, New York, NY 10003, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7576553,
+                "lng": -73.9899274
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "MIDNIGHT IN MIDTOWN -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "12:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "BLUEPRINT FOR LIVING -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:30 PM"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "42nd AT 9:00pm -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": "Room  404"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "ALANON HOUSE   (AA Meetings Only) -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "NEW PHOENIX -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": "Room  306"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:30 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576553,
+                        "lng": -73.9899274
+                    },
+                    "meetingName": "A NEW FREEDOM -",
+                    "meetingAddress": "303 W 42nd St, New York, NY 10036, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7576496,
+                "lng": -73.964016
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7576496,
+                        "lng": -73.964016
+                    },
+                    "meetingName": "CARLYLE - Carlyle",
+                    "meetingAddress": "350 E 56th St, New York, NY 10022, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:45 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7843147,
+                "lng": -73.97173169999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7843147,
+                        "lng": -73.97173169999999
+                    },
+                    "meetingName": "OXFORD  (:I) - Oxford",
+                    "meetingAddress": "26 W 84th St, New York, NY 10024, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Open meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.780699,
+                "lng": -73.954995
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.780699,
+                        "lng": -73.954995
+                    },
+                    "meetingName": "CHAPTER FIVE - Chapter Five     (:I)",
+                    "meetingAddress": "1296 Lexington Ave, New York, NY 10128, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:15 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7656978,
+                "lng": -73.9672859
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7656978,
+                        "lng": -73.9672859
+                    },
+                    "meetingName": "RENEWAL EAST -",
+                    "meetingAddress": "593 Park Ave, New York, NY 10065, USA",
+                    "addressDetails": "5th Floor Library"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7308098,
+                "lng": -73.9819564
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7308098,
+                        "lng": -73.9819564
+                    },
+                    "meetingName": "COMPLETE ABANDON - Complete Abandon",
+                    "meetingAddress": "414 E 14th St, New York, NY 10009, USA",
+                    "addressDetails": "Auditorium"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7476699,
+                "lng": -73.9975237
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7476699,
+                        "lng": -73.9975237
+                    },
+                    "meetingName": "LEARNING TO LIVE (:I) - Learning To Live",
+                    "meetingAddress": "307 W 26th St, New York, NY 10001, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7476699,
+                        "lng": -73.9975237
+                    },
+                    "meetingName": "LEARNING TO LIVE ( :1) -",
+                    "meetingAddress": "307 W 26th St, New York, NY 10001, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7753286,
+                "lng": -73.95819519999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7753286,
+                        "lng": -73.95819519999999
+                    },
+                    "meetingName": "LEX 80 STEP -",
+                    "meetingAddress": "1157 Lexington Ave, New York, NY 10075, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7572249,
+                "lng": -73.9730479
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7572249,
+                        "lng": -73.9730479
+                    },
+                    "meetingName": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
+                    "meetingAddress": "325 Park Ave, New York, NY 10022, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8107528,
+                "lng": -73.9441252
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8107528,
+                        "lng": -73.9441252
+                    },
+                    "meetingName": "A CHANCE TO LIVE AGAIN - A Chance To Live Again",
+                    "meetingAddress": "109 W 129th St, New York, NY 10027, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7389514,
+                "lng": -73.9868257
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7389514,
+                        "lng": -73.9868257
+                    },
+                    "meetingName": "AT BILL'S PLACE - At Bill's Place",
+                    "meetingAddress": "61 Gramercy Park N, New York, NY 10010, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7492285,
+                "lng": -73.9987408
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7492285,
+                        "lng": -73.9987408
+                    },
+                    "meetingName": "NINTH AVENUE           (:I) - Ninth Avenue     (:I)",
+                    "meetingAddress": "296 9th Ave, New York, NY 10001, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7519822,
+                "lng": -73.9746576
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7519822,
+                        "lng": -73.9746576
+                    },
+                    "meetingName": "LUNCH BUNCH - Lunch Bunch",
+                    "meetingAddress": "141 E 43rd St, New York, NY 10017, USA",
+                    "addressDetails": "Basement Hall"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.75856539999999,
+                "lng": -73.9703834
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.75856539999999,
+                        "lng": -73.9703834
+                    },
+                    "meetingName": "CITY GROUP - Citikorp",
+                    "meetingAddress": "619 Lexington Ave, New York, NY 10022, USA",
+                    "addressDetails": "Lower Level Music Rooms"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:30 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.772485,
+                "lng": -73.95951409999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.772485,
+                        "lng": -73.95951409999999
+                    },
+                    "meetingName": "ACTIVE - Active",
+                    "meetingAddress": "184 E 76th St, New York, NY 10021, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7770609,
+                "lng": -73.97954659999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7770609,
+                        "lng": -73.97954659999999
+                    },
+                    "meetingName": "FAST BREAK - Fast Break",
+                    "meetingAddress": "111 W 71st St, New York, NY 10023, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:00 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:15 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:15 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7722008,
+                "lng": -73.9517118
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7722008,
+                        "lng": -73.9517118
+                    },
+                    "meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop    (:I)",
+                    "meetingAddress": "413 E 79th St, New York, NY 10075, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "6:00 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:15 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 AM",
+                        "MeetingType": "Tradition meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:30 AM",
+                        "MeetingType": "Big Book meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.812,
+                "lng": -73.947053
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.812,
+                        "lng": -73.947053
+                    },
+                    "meetingName": "SALEM - Salem",
+                    "meetingAddress": "211 W 129th St, New York, NY 10027, USA",
+                    "addressDetails": "Downstairs in the Gym"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7711264,
+                "lng": -73.9653563
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7711264,
+                        "lng": -73.9653563
+                    },
+                    "meetingName": "PARK BENCH   (:II) -",
+                    "meetingAddress": "865 Madison Ave, New York, NY 10021, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8332853,
+                "lng": -73.9446524
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8332853,
+                        "lng": -73.9446524
+                    },
+                    "meetingName": "GRUPO DESPERTAR - Grupo Despertar",
+                    "meetingAddress": "557 W 156th St, New York, NY 10032, USA",
+                    "addressDetails": "NY 10032"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8239667,
+                "lng": -73.9464048
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8239667,
+                        "lng": -73.9464048
+                    },
+                    "meetingName": "SOBER ADULT MEN - Sober Adult Men",
+                    "meetingAddress": "425 W 144th St, New York, NY 10031, USA",
+                    "addressDetails": "1st Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7133628,
+                "lng": -74.0026069
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7133628,
+                        "lng": -74.0026069
+                    },
+                    "meetingName": "PASSING THE BAR - Passing The Bar",
+                    "meetingAddress": "St. Andrew's Church, 20 Cardinal Hayes Pl, New York, NY 10007, USA",
+                    "addressDetails": "Enter thru driveway behind Church"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7133628,
+                        "lng": -74.0026069
+                    },
+                    "meetingName": "WOMEN'S DOWNTOWN AA STEP MEETING -",
+                    "meetingAddress": "St. Andrew's Church, 20 Cardinal Hayes Pl, New York, NY 10007, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7133628,
+                        "lng": -74.0026069
+                    },
+                    "meetingName": "TOWER -",
+                    "meetingAddress": "St. Andrew's Church, 20 Cardinal Hayes Pl, New York, NY 10007, USA",
+                    "addressDetails": "10007"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:30 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7133628,
+                        "lng": -74.0026069
+                    },
+                    "meetingName": "A DESIGN FOR LIVING -",
+                    "meetingAddress": "St. Andrew's Church, 20 Cardinal Hayes Pl, New York, NY 10007, USA",
+                    "addressDetails": "Rectory Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:00 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7133628,
+                        "lng": -74.0026069
+                    },
+                    "meetingName": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
+                    "meetingAddress": "St. Andrew's Church, 20 Cardinal Hayes Pl, New York, NY 10007, USA",
+                    "addressDetails": "Enter through driveway behind Church"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7487872,
+                "lng": -73.9907198
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7487872,
+                        "lng": -73.9907198
+                    },
+                    "meetingName": "BOOKSHOP AT NOON - Bookshop At Noon",
+                    "meetingAddress": "139 W 31st St, New York, NY 10001, USA",
+                    "addressDetails": "3rd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.807284,
+                "lng": -73.94995949999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.807284,
+                        "lng": -73.94995949999999
+                    },
+                    "meetingName": "FELLOWSHIP AT NOON - Fellowship At Noon",
+                    "meetingAddress": "2044 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8621364,
+                "lng": -73.9189224
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8621364,
+                        "lng": -73.9189224
+                    },
+                    "meetingName": "DYCKMAN - Dyckman",
+                    "meetingAddress": "431 W 204th St, New York, NY 10034, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7944661,
+                "lng": -73.97063899999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "MID-DAY CHEER - Mid-Day Cheer",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "1:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "A NEW DAY - A New Day",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "3:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "WRITING SOBER - Writing Sober",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "FIRST THINGS FIRST - First Things First",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "6:00 AM",
+                        "MeetingType": "Step meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "7:15 AM",
+                        "MeetingType": "Closed Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:45 AM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Thursday",
+                        "BeginTime": "8:45 AM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:15 AM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "WE ARE NOT DOCTORS (WESTSIDE) -",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "4:45 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7944661,
+                        "lng": -73.97063899999999
+                    },
+                    "meetingName": "NINETY-SIXTH STREET WORKSHOP - Ninety-Sixth Street Workshop",
+                    "meetingAddress": "207 W 96th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.8220986,
+                "lng": -73.9408904
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.8220986,
+                        "lng": -73.9408904
+                    },
+                    "meetingName": "AA IT WORKS  II - AA It Works II",
+                    "meetingAddress": "240 W 145th St, New York, NY 10039, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "10:00 AM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7479436,
+                "lng": -73.9782379
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7479436,
+                        "lng": -73.9782379
+                    },
+                    "meetingName": "GRAND CENTRAL - Grand Central",
+                    "meetingAddress": "283 Lexington Ave, New York, NY 10016, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:30 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7695575,
+                "lng": -73.9555091
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7695575,
+                        "lng": -73.9555091
+                    },
+                    "meetingName": "MEDITATION (EXPECT MIRACLES) - Meditation (Expect Miracles)",
+                    "meetingAddress": "351 E 74th St, New York, NY 10021, USA",
+                    "addressDetails": "2nd Floor Chapel Room"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "11:00 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7695575,
+                        "lng": -73.9555091
+                    },
+                    "meetingName": "AFTERNOON AWAKENING -",
+                    "meetingAddress": "351 E 74th St, New York, NY 10021, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "2:30 PM",
+                        "MeetingType": "Big Book meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7695575,
+                        "lng": -73.9555091
+                    },
+                    "meetingName": "MORNING REFLECTIONS -",
+                    "meetingAddress": "351 E 74th St, New York, NY 10021, USA",
+                    "addressDetails": "2nd Floor   Front Room"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "9:30 AM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7695575,
+                        "lng": -73.9555091
+                    },
+                    "meetingName": "I'M ALL IN -",
+                    "meetingAddress": "351 E 74th St, New York, NY 10021, USA",
+                    "addressDetails": "2nd Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7695575,
+                        "lng": -73.9555091
+                    },
+                    "meetingName": "WE HUMANISTS - We Humanists",
+                    "meetingAddress": "351 E 74th St, New York, NY 10021, USA",
+                    "addressDetails": "2nd Floor Museum Room"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:15 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7361603,
+                "lng": -73.9914763
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7361603,
+                        "lng": -73.9914763
+                    },
+                    "meetingName": "NINJAS IN RECOVERY -",
+                    "meetingAddress": "25 E 15th St, New York, NY 10003, USA",
+                    "addressDetails": "10003"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:00 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.84213949999999,
+                "lng": -73.9422811
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.84213949999999,
+                        "lng": -73.9422811
+                    },
+                    "meetingName": "A NEW WAY OF LIVING - A New Way Of Living",
+                    "meetingAddress": "W 168th St & Fort Washington Ave, New York, NY 10032, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7208017,
+                "lng": -74.0048389
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7208017,
+                        "lng": -74.0048389
+                    },
+                    "meetingName": "SANE AND SOBER -",
+                    "meetingAddress": "283 W Broadway, New York, NY 10013, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            },
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7208017,
+                        "lng": -74.0048389
+                    },
+                    "meetingName": "YOUNG PEOPLE'S DIVERSITY -",
+                    "meetingAddress": "283 W Broadway, New York, NY 10013, USA",
+                    "addressDetails": "10013"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:30 PM",
+                        "MeetingType": "Closed Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.79979790000001,
+                "lng": -73.96564289999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.79979790000001,
+                        "lng": -73.96564289999999
+                    },
+                    "meetingName": "MANHATTAN VALLEY - Manhattan Valley",
+                    "meetingAddress": "165 W 105th St, New York, NY 10025, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.73261979999999,
+                "lng": -74.0068029
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.73261979999999,
+                        "lng": -74.0068029
+                    },
+                    "meetingName": "GREENWICH VILLAGE - Greenwich Village",
+                    "meetingAddress": "487 Hudson St, New York, NY 10014, USA",
+                    "addressDetails": "Basement"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:15 PM",
+                        "MeetingType": "Open Discussion meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7479666,
+                "lng": -73.9818762
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7479666,
+                        "lng": -73.9818762
+                    },
+                    "meetingName": "EMPIRE STATE - Empire State",
+                    "meetingAddress": "28 E 35th St, New York, NY 10016, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "12:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7569979,
+                "lng": -73.9734971
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7569979,
+                        "lng": -73.9734971
+                    },
+                    "meetingName": "WOMEN'S ELEVENTH STEP - Women's Eleventh Step",
+                    "meetingAddress": "109 E 50th St, New York, NY 10022, USA",
+                    "addressDetails": ""
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "5:45 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7336813,
+                "lng": -74.0037717
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7336813,
+                        "lng": -74.0037717
+                    },
+                    "meetingName": "NEW GROUP - New Group",
+                    "meetingAddress": "83 Christopher St, New York, NY 10014, USA",
+                    "addressDetails": "Red Door"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "6:30 PM",
+                        "MeetingType": "Beginners meeting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": {
+            "latLong": {
+                "lat": 40.7831667,
+                "lng": -73.98154819999999
+            }
+        },
+        "meetingGroups": [
+            {
+                "groupInfo": {
+                    "latLong": {
+                        "lat": 40.7831667,
+                        "lng": -73.98154819999999
+                    },
+                    "meetingName": "SMITHEREENS - Smithereens",
+                    "meetingAddress": "368 West End Ave, New York, NY 10024, USA",
+                    "addressDetails": "1st Floor"
+                },
+                "meetingDay": [
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "7:00 PM",
+                        "MeetingType": "Beginners meeting"
+                    },
+                    {
+                        "Day": "Wednesday",
+                        "BeginTime": "8:15 PM",
+                        "MeetingType": "Step meeting"
+                    }
+                ]
+            }
+        ]
+    }
+]
